@@ -33,3 +33,12 @@ import math
 print(math.floor(23.4))     #23
 print(math.ceil(23.4))      #24
 
+Amrita=True
+#string operations 
+print(type(Amrita))
+string="a quick brown fox "
+print(string.startswith("a"))
+print(string.endswith("fox"))
+print(string.find("brown"))
+print(string.index("o"))
+print(string.startswith("Hello"))
