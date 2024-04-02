@@ -26,5 +26,6 @@ print(type(number))
 
 
 # find the syntax for floor and ceil equivalent functions in c
-
+# for floor function it is math.floor(num) by importing Math
+# for ciel function it is math.ciel(num) by importing math
 
